@@ -1,0 +1,45 @@
+commit b0a0cc1d599be3208d4d0a6bf46fdfbe84cdff71
+Merge: d30bd72 c88eba3
+Author: Juan Contreras <contrejm11@outlook.com>
+Date:   Thu Sep 10 23:23:57 2026 -0700
+
+    Resolved merging conflict
+
+commit c88eba39a2f45d7e254c982804c82d1ed53e63fc
+Author: Juan Contreras <contrejm11@outlook.com>
+Date:   Thu Sep 10 23:21:14 2026 -0700
+
+    Added favorite vidoe game div on index-fix
+
+commit d30bd720ae15034decf943c4f5bfd66bf667283f
+Author: Juan Contreras <contrejm11@outlook.com>
+Date:   Thu Sep 10 23:19:30 2026 -0700
+
+    Added first istrument played div on main
+
+commit d062895a0f3dc490ee4f91696d3e134bf00a8377
+Author: Juan Contreras <contrejm11@outlook.com>
+Date:   Thu Sep 10 23:15:45 2026 -0700
+
+    Added README.md
+
+commit 25ffb9ac9c8b017bee071ea1f05a8dfc02edf94a
+Merge: 1d2bfc0 1830cf7
+Author: Juan Contreras <125863610+xJU4Nx@users.noreply.github.com>
+Date:   Thu Sep 10 23:07:25 2026 -0700
+
+    Merge pull request #1 from xJU4Nx/info-fill
+    
+    Filled in the blanks in index.html
+
+commit 1830cf7f81bf398d1c4279ba68d210d9003369b8
+Author: Juan Contreras <contrejm11@outlook.com>
+Date:   Thu Sep 10 22:54:21 2026 -0700
+
+    Filled in the blanks in index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
